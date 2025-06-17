@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I build software that brings ideas to life. Whether it's for people, products, or problems that need fixing. I don’t stick to one thing, if it needs to be built, I’ll figure it out. Always learning, always shipping. I’m here to make things that matter.
 <!--
 **SharoonRafeek/SharoonRafeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
